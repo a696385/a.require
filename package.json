@@ -1,11 +1,8 @@
 {
   "name": "a.require",
   "version": "0.0.1",
-  "description": "a.require =========",
+  "description": "Require Node.js System",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/a696385/a.require.git"
@@ -14,5 +11,11 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/a696385/a.require/issues"
-  }
+  },
+  "directories": {
+    "example": "example"
+  },
+  "keywords": [
+    "Require"
+  ]
 }
